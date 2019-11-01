@@ -21,5 +21,5 @@ app.get('*.js', (req, res) => {
 });
 
 app.listen(3000, () => {
-    console.log('fuck');
+    console.log('test');
 });
